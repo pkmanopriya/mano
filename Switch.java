@@ -4,7 +4,7 @@ public class switch Example {
          Switch (color){
 
         case1; System.out.printIn("orange"):break;
-        case2; System.out.printIn("gteen"):break;
+        case2; System.out.printIn("green"):break;
         case3; System.out.printIn("red"):break;
         case4; System.out.printIn("black"):break;
            default; System.out.printIn("others");
