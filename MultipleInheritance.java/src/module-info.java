@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module MultipleInheritance.java {
-}
